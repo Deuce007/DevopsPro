@@ -1,0 +1,1 @@
+When running jenkins.war manually with java -jar jenkins.war, all logging information by default is output to standard out. Many Jenkins native packages modify this behavior to ensure logging information is output in a more conventional location for the platform.
